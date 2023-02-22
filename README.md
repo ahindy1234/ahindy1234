@@ -2,7 +2,7 @@
 Computer Science Student @ Stanford | Full Stack Engineer @ Yakera | NLP Research for Neural Sign Language Translation | Embracing Technology | Lifelong Learner
 
 ## 🧐 About
-I’m a first year student at Stanford University pursuing a Bachelor’s Degree in Symbolic Systems with a specialization in AI systems. I have 4 years of experience with machine learning and 1 year of experience with quantum computing projects. Some of my projects include:
+I’m a second year student at Stanford University pursuing a Bachelor’s Degree in Mathematics & CS with a specialization in AI systems. I have 4 years of experience with machine learning and 1 year of experience with quantum computing projects. Some of my projects include:
 
  - Identifying segmented nuclei using convolutional neural networks to help doctors diagnose disease
  - Predicting droughts using novel machine learning techniques and computer vision
