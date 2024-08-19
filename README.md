@@ -1,22 +1,5 @@
 # Ali Hindy 😃
-Computer Science Student @ Stanford | Full Stack Engineer @ Yakera | NLP Research for Neural Sign Language Translation | Embracing Technology | Lifelong Learner
-
-## 🧐 About
-I’m a second year student at Stanford University pursuing a Bachelor’s Degree in Mathematics & CS with a specialization in AI systems. I have 4 years of experience with machine learning and 1 year of experience with quantum computing projects. Some of my projects include:
-
- - Identifying segmented nuclei using convolutional neural networks to help doctors diagnose disease
- - Predicting droughts using novel machine learning techniques and computer vision
- - Translating sign language using muscle sensors and seq-2-seq models for neural sign language translation
- - Implementing quantum error correcting codes on IBM’s Melbourne computer to measure systemic errors.
-
-I’m interested in learning more about CS, physics, and software engineering as well as expanding my knowledge in the field. I love expanding my knowledge and skills in these fields and do so whenever I can. In my free time, I enjoy blogging, making Youtube videos, working on open source projects, squash, running, and reading.
-
-## 👯 Communities
-- Working to improve my web development skills @ [ahindy1234](https://ahindy1234.github.io)
-- Working to democratize crowd-funding in Venezuela at [Yakera](https://yakera.net) (An amazing startup!)
-- Working to dispel inequities in sign language --> [
-Sensors to Sign Language: A Natural Approach to Equitable Communication ](https://drive.google.com/file/d/1Z86L_BTJKiFcc5De_7eBPov1HK4hdPd6/view) (Novel methods for Neural Sign Language Translation)
-- Helping others learn CS online at [The Teaching Assitant](https://www.youtube.com/channel/UCkOE4l7lPnx7YqKNYM81OrA)
+Computer Science, Mathematics @ Stanford 
 
 ## ⚡ Technologies
 Talk to me about
